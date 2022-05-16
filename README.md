@@ -1,7 +1,7 @@
 ##  Intro
 I stumbled on a youtube video [youtube video](https://www.youtube.com/watch?v=hoeIllSxpEU) basically discussing that humans are bad at comprehending numbers and can't possibly comprehend 52 factorial (52!). For those who don't know, 52 is special because it's the number of cards in a deck of cards, and 52! is the number of ways in which a deck of cards can be shuffled.
 
-For context, 52! is approximately **8.0658e67** or **80,658,175,170,943,878,571,660,636,856,403,766,975,289,505,440,883,277,824,000,000,000,000** to be exact.
+For context, 52! is approximately **`8.0658e67`** or **`80,658,175,170,943,878,571,660,636,856,403,766,975,289,505,440,883,277,824,000,000,000,000`** to be exact.
 
 If you want to learn more about factorials, here are a few links: 
 - [52 factorial](https://czep.net/weblog/52cards.html)
