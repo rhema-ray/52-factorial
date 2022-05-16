@@ -1,5 +1,5 @@
 ##  Intro
-I stumbled on a youtube video [youtube video](https://www.youtube.com/watch?v=hoeIllSxpEU) basically discussing that humans are bad at comprehending numbers and can't possibly comprehend 52 factorial (52!). For those who don't know, 52 is special because it's the number of cards in a deck of cards, and 52! is the number of ways in which a deck of cards can be shuffled.
+I stumbled on a [youtube video](https://www.youtube.com/watch?v=hoeIllSxpEU) basically discussing that humans are bad at comprehending numbers and can't possibly comprehend 52 factorial (52!). For those who don't know, 52 is special because it's the number of cards in a deck of cards, and 52! is the number of ways in which a deck of cards can be shuffled.
 
 For context, 52! is approximately **`8.0658e67`** or **`80,658,175,170,943,878,571,660,636,856,403,766,975,289,505,440,883,277,824,000,000,000,000`** to be exact.
 
@@ -8,7 +8,7 @@ If you want to learn more about factorials, here are a few links: 
 - [Factorials](https://byjus.com/maths/factorial/)
 - [Permutation and Combination](https://www.mathsisfun.com/combinatorics/combinations-permutations.html)
 
-I am learning C, so I thought this could be a great way to dive into the deep ends :)
+I am learning C, so I thought this could be a great way to dive into the deep end :)
 
 ## Goals
 My initial goal was to write a simple counter that increments its way to 52! whilst measuring how long it took, then probably sleep afterwards. But unfortunately, this has proven to be quite a burden. Although, this quest has led me to two goals:
