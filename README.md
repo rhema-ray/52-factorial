@@ -34,5 +34,14 @@ I found out C (and probably all 64byte machines) has a number limit of `18,446,7
 
 ## Log
 
-- 16-may-2022 4:54am
+- 16-may-2022 4:54am GMT+1
 I have read an unnecessary amount of articles on permutation and combination🫠🫠. Although I've learnt quite a lot on this old favourite, I am only a step closer to my goal.
+
+- 21-may-2022 3:22am GMT+1
+I figured out how to do factorial calculations. The `long long unsigned int` was probably the first problem with my code. Because of it, the compiler keeps running into issues (I think). I'll try to figure out why it kept running into an error.
+
+- 25-may-2022 3:22am GMT+1
+Turns out the `long long unsigned int` wasn't the problem with my code. There was like three (unnecessary) return statements. Sha the code compiles and the time it takesis acctually a lot more dissapointing than I anticipated. I completely forgot how a complete breeze incrementing is😅. On the birght side, the code works  and i found `C`'s limit. next problem is how to pass it.
+
+- 30-may-2022 3:22am GMT+1
+Turns out i didn't commit anything on this repository, I was working on the repo on the vm the entire time and that doesn't link to here. Well, i've realized the challege isn't to increment to `52!` anymore, **it is to print a number that exceeds `C`'s limits.**
