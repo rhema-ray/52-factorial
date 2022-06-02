@@ -8,18 +8,21 @@
 int main(void)
 {
 	unsigned int value;
-	int i;
+	int i, input;
 	FILE *out;
 
+	printf("Enter a number to find its factorial: ");
+	scanf("%d\n", &input);
+	
 	value = 1;
 	out = fopen("output.txt", "w");
 
 	fprintf(out, "The factorials of 10 are;\n");
-	for ( i = 1; i <= 10; i++)
+	for ( i = 1; i <= input; i++)
 	{
 		value = value * i;
 		
-		if (value >= '18446744073709551615')
+		if (value >= (unsigned long int)'18446744073709551615')
 		{
 			printf("BING BONG!\n We've gotten to the maximum number C can hold ");
 			return (0);

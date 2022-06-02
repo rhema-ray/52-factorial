@@ -45,3 +45,6 @@ Turns out the `long long unsigned int` wasn't the problem with my code. There wa
 
 - 30-may-2022 3:22am GMT+1
 Turns out i didn't commit anything on this repository, I was working on the repo on the vm the entire time and that doesn't link to here. Well, i've realized the challege isn't to increment to `52!` anymore, **it is to print a number that exceeds `C`'s limits.**
+
+- 2-june-2022 10:18pm
+Sigh...
